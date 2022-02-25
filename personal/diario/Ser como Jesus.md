@@ -1,0 +1,1 @@
+Ser como Jesús es aprender a perdonar a aquellos que nunca se disculparon

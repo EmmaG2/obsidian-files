@@ -1,0 +1,21 @@
+{
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 63
+  },
+  "fileSortOrder": "byModifiedTime",
+  "promptDelete": false,
+  "spellcheck": false,
+  "legacyEditor": false,
+  "livePreview": true
+}

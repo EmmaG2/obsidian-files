@@ -1,0 +1,2 @@
+# tip 6
+Tomate tu tiempo al momento de resolver algún problema o error en tu codigo. El error puede estar en tu lógica que te llevo a ese resultado o posiblemente que te hayas olvidado ese hermoso " ; ".

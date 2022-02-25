@@ -1,0 +1,1 @@
+El criticarnos o degradarnos equivale a criticar lo que Dios ha hecho. Saber que usted es una persona que tiene valor le da la libertad de amar a Dios, de conocerlo personalmente y de hacer una contribución valiosa a aquellos que lo rodean.

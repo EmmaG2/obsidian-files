@@ -1,0 +1,1 @@
+Al tomar decisiones debemos permanecer siempre en Dios. Su Palabra, la Biblia, es nuestra guía al tomar decisiones.

@@ -1,0 +1,1 @@
+**Santiago 1:22**<br>Pero sed **hacedores** de la palabra, y **no** tan solamente **oidores**

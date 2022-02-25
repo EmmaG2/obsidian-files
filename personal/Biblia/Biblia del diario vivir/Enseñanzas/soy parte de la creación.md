@@ -1,0 +1,1 @@
+Dios observó que lo que había hecho era muy bueno. Usted es parte de la creación de Dios y Él está complacido por la manera en que lo creó. Si en ocasiones siente que carece de valor o que vale poco, recuerde que Dios lo creó por una buena razón. Usted es valioso para Él.

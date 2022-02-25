@@ -1,0 +1,1 @@
+En cambio, la clase de fruto que el Espíritu Santo produce en nuestra vida es: amor, alegría, paz, paciencia, gentileza, bondad, fidelidad,
